@@ -1,1 +1,13 @@
-{}
+{
+    "98de1c57fbfce7e4dddef11b6f5fae2f": {
+        "firstName": "Norman",
+        "lastName": "Oswald",
+        "email": "norman@gmail.com",
+        "gender": "Male",
+        "dob": "2022-08-25",
+        "city": "Sydney",
+        "agreement": true,
+        "phone": "55565254684",
+        "reservationDate": "2023-06-06"
+    }
+}
